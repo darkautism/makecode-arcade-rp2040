@@ -2,7 +2,12 @@
 
 makecode arcade on rp2040.
 
-[![vedio](misc/rp2040.png)](https://youtube.com/shorts/pD9jQiKcVWQ)
+![image](misc/rp2040.png)
+
+Vedio:
+
+https://github.com/user-attachments/assets/5abbc17d-cb16-4579-8219-a010cbccb1f9
+
 
 ## Config
 
