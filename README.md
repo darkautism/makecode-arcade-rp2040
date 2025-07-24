@@ -65,7 +65,8 @@ PIN_JACK_SND  = P_13
 
 ## Firmware
 
-[arcade-rp2040-pico.uf2](arcade-rp2040-pico.uf2)
+[arcade-rp2040-pico-fullcase-ver.uf2](arcade-rp2040-pico-fullcase-ver.uf2)
+[arcade-rp2040-pico-sketch-ver.uf2](arcade-rp2040-pico-sketch-ver.uf2)
 
 ## External link
 
